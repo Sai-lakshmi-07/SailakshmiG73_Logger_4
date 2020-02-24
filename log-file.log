@@ -1,0 +1,27 @@
+Entered into main() method
+
+Created an Interest.java class Object 
+To find Simple Interest:
+
+Entered into simple_display() method of Interest.java class
+
+Exited from simple_display() method of Interest.java class
+
+SimpleInterest : 44424.0/-
+To find Compound Interest:
+
+Entered into compound_display() method of Interest.java class
+
+Exited from compound_display() method of Interest.java class
+
+CompoundInterest : 2.997174120858838E272/-
+Created an Construction.java class Object 
+To find House Construction Cost :
+
+Entered into calculate() method of Construction.java class
+
+Exited into calculate() method of Construction.java class
+
+Total House Construction Cost : 182500.0/-
+Exited from main() method
+
